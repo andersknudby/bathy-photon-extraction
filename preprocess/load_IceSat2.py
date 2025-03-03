@@ -2,7 +2,7 @@ import os.path
 
 import h5py
 import numpy as np
-from filter.process_IS2_dis_geoid import process_IS2_dis_geoid
+from preprocess.process_IS2_dis_geoid import process_IS2_dis_geoid
 
 
 def load_IceSat2(filename, beam_name, thr_conf=1):
