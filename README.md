@@ -32,7 +32,6 @@ pip install numpy matplotlib h5py scikit-learn icepyx
 ```bash
 git clone https://github.com/andersknudby/bathy-photon-extraction.git
 cd bathy-photon-extraction
-
 ```
 
 
